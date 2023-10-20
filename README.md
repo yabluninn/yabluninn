@@ -11,7 +11,7 @@
 📚 I'm a lifelong learner and love to share knowledge. Feel free to check out my projects, contribute, or simply reach out if you have any questions or want to collaborate on exciting projects.
 
 💬 Let's Connect:
-- 📫 Email: your.email@example.com
+- 📫 Email: yablunin.artem@gmail.com
 - 💼 LinkedIn: [Link](https://www.linkedin.com/in/artem-yablunin)
 - 🌐 Portfolio: [Portfolio](https://www.yourwebsite.com)
 
