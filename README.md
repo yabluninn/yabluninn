@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-🚀 Hi there! I'm [Your Name], an experienced software developer with a passion for Android development. I've ventured through various realms of the tech world, from game development 🎮 to frontend web development 🌐, and now I'm immersed in the world of Android 📱.
+🚀 Hi there! I'm Artem Yablunin, an experienced software developer with a passion for Android development. I've ventured through various realms of the tech world, from game development 🎮 to frontend web development 🌐, and now I'm immersed in the world of Android 📱.
 
 🌟 Here's what you'll find in my repositories:
 
@@ -12,8 +12,8 @@
 
 💬 Let's Connect:
 - 📫 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [Your Portfolio Website](https://www.yourwebsite.com)
+- 💼 LinkedIn: [Link](https://www.linkedin.com/in/artem-yablunin)
+- 🌐 Portfolio: [Portfolio](https://www.yourwebsite.com)
 
 🌈 Thanks for visiting my GitHub profile, and I look forward to connecting with you in the world of code!
 
