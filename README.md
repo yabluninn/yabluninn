@@ -15,6 +15,6 @@
 - 💼 LinkedIn: [Link](https://www.linkedin.com/in/artem-yablunin)
 - 🌐 Portfolio: [Portfolio](https://www.yourwebsite.com)
 
-🌈 Thanks for visiting my GitHub profile, and I look forward to connecting with you in the world of code!
+Thanks for visiting my GitHub profile, and I look forward to connecting with you in the world of code!
 
 Happy coding! 🚀
